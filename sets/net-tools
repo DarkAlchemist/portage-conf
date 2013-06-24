@@ -1,0 +1,9 @@
+net-firewall/iptables
+sys-apps/ethtool
+net-dns/bind-tools
+net-misc/telnet-bsd
+net-misc/bridge-utils
+net-misc/htbinit
+sys-apps/iproute2
+net-analyzer/tcpdump
+net-analyzer/bmon

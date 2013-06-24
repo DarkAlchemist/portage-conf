@@ -1,0 +1,1 @@
+NGINX_MODULES_HTTP="access auth_basic autoindex browser charset empty_gif fastcgi gzip limit_conn limit_req map memcached proxy referer rewrite scgi split_clients ssi upstream_ip_hash userid uwsgi"

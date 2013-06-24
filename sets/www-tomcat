@@ -1,0 +1,3 @@
+>=www-servers/tomcat-7
+dev-java/commons-dbcp
+dev-java/commons-pool

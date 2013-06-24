@@ -1,0 +1,4 @@
+app-admin/sudo
+sys-auth/pam_ldap
+sys-auth/nss_ldap
+net-misc/scponly

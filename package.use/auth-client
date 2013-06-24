@@ -1,0 +1,2 @@
+app-admin/sudo ldap pam
+net-misc/scponly rsync logging passwd scp unison wildcards winscp

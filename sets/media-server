@@ -1,0 +1,5 @@
+media-video/ffmpeg
+virtual/ffmpeg
+media-video/mplayer
+net-misc/ps3mediaserver
+=net-misc/mediatomb-0.12.1-r2

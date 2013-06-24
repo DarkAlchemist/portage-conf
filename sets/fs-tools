@@ -1,0 +1,4 @@
+sys-fs/ntfs3g
+sys-fs/lvm2
+sys-process/lsof
+sys-fs/inotify-tools

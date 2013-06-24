@@ -1,0 +1,2 @@
+sys-auth/pam_mount ~amd64
+sys-auth/google-authenticator ~amd64

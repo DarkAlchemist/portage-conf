@@ -1,0 +1,12 @@
+@auth-client
+@gentoo-utils
+@sync-tools
+@pam-libs
+@vcs
+app-misc/screen
+app-text/dos2unix
+app-text/tree
+sys-fs/cryptsetup
+app-admin/syslog-ng
+sys-process/vixie-cron
+app-editors/vim

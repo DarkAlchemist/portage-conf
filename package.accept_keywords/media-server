@@ -1,0 +1,5 @@
+media-video/mplayer ~amd64
+media-video/ffmpeg ~amd64
+net-misc/ps3mediaserver ~amd64
+media-video/tsmuxer ~amd64
+app-arch/upx-ucl ~amd64

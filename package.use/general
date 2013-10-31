@@ -1,0 +1,18 @@
+app-editors/vim -gpm
+>=dev-libs/libxml2-2.7.8-r5 python
+=net-mail/davmail-bin-3.9.8 **
+=net-misc/unison-2.40.65 **
+>=dev-java/antlr-3.1.3-r2 source
+media-libs/sdl-image gif jpeg png
+dev-lang/python sqlite
+media-libs/libsdl X opengl alsa
+net-libs/libmicrohttpd messages
+net-dns/bind dlz
+net-fs/nfs-utils nfsv3 nfsv41 nfsidmap
+net-misc/mediatomb lastfm inotify mysql
+dev-libs/openssl bindist
+net-misc/openssh bindist
+dev-java/sun-jdk -X
+media-sound/audiotag aac flac mp3 vorbis
+media-sound/vorbis-tools flac
+net-irc/znc daemon perl python ssl sasl tcl 

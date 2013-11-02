@@ -10,8 +10,6 @@ net-libs/libmicrohttpd messages
 net-dns/bind dlz
 net-fs/nfs-utils nfsv3 nfsv41 nfsidmap
 net-misc/mediatomb lastfm inotify mysql
-dev-libs/openssl bindist
-net-misc/openssh bindist
 dev-java/sun-jdk -X
 media-sound/audiotag aac flac mp3 vorbis
 media-sound/vorbis-tools flac

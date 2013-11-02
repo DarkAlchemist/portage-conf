@@ -1,3 +1,4 @@
 >=www-servers/tomcat-7
+# Required for database connections
 dev-java/commons-dbcp
 dev-java/commons-pool

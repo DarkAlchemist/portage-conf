@@ -1,3 +1,2 @@
 mail-mta/postfix dovecot-sasl mysql vda -pam sasl ldap
 net-mail/dovecot mysql -pam sieve imapc mbox mdbox sdbox ldap managesieve
-www-apps/postfixadmin mysql

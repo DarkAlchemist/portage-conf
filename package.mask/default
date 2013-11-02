@@ -1,1 +1,5 @@
 */*::srcshelton
+<media-video/mplayer-1.0_rc4_p20120213
+<=net-p2p/transmission-2.42
+<=media-libs/libmediainfo-0.7.51
+<=media-video/mediainfo-0.7.51

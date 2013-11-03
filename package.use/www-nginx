@@ -1,3 +1,4 @@
 www-servers/nginx http http-cache ssl syslog vim-syntax
 dev-lang/php gd sockets sqlite pdo sqlite3 xmlwriter zip fpm mysql readline curl imap ftp ldap exif curlwrappers xmlreader xmlrpc snmp gmp mysqli ctype filter xml simplexml pcntl postgres calendar
 net-misc/curl gnutls
+app-admin/eselect-php fpm

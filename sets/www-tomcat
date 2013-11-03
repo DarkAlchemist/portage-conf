@@ -1,4 +1,7 @@
 >=www-servers/tomcat-7
-# Required for database connections
-dev-java/commons-dbcp
-dev-java/commons-pool
+#dev-java/commons-dbcp
+#dev-java/commons-pool
+>=virtual/jdk-1.7
+>=virtual/jre-1.7
+dev-java/oracle-jdk-bin
+dev-java/oracle-jre-bin
